@@ -1,0 +1,147 @@
+{
+  "header": {
+    "main": "Main",
+    "aboutProject": "About Project",
+    "constructionProgress": "Construction Progress",
+    "documents": "Documents",
+    "tenders": "Tenders",
+    "news": "News",
+    "gallery": "Gallery",
+    "contacts": "Contacts",
+    "feedback": "Feedback",
+    "siteMap": "Site Map"
+  },
+  "headerTitles": {
+    "main": "Project 'Landslide Risk Management in the Kyrgyz Republic'",
+    "aboutProject": "About Project",
+    "constructionProgress": "Construction Progress",
+    "documents": "Documents",
+    "tenders": "Tenders",
+    "tender": "Tender Details",
+    "tenterItog": "Tender Results",
+    "news": "News",
+    "gallery": "Gallery",
+    "contacts": "Contacts",
+    "feedback": "Feedback",
+    "siteMap": "Site Map",
+    "searchResults": "Search Results"
+  },
+  "search": "Search",
+  "footer": {
+    "designTitle": "© 2024 Design ITMAG."
+  },
+  "home": {
+    "results": {
+      "one": "Implementation of engineering measures to mitigate landslide consequences",
+      "two": "Improvement of landslide monitoring systems locally and nationally",
+      "three": "Enhancement of landslide risk management capacity"
+    },
+    "aboutProject": {
+      "title": "About Project",
+      "one": "Located in a seismically active zone with a variable climate, the Kyrgyz Republic faces a high risk of geophysical disasters and climate change.",
+      "two": "Frequent landslides, triggered by snowmelt, precipitation, and seismic activity, particularly in the Fergana Valley, pose a serious threat to life, infrastructure, and the economy. In response to these challenges, we are implementing the Asian Development Bank's first comprehensive landslide risk reduction project, aimed at protecting rural communities.",
+      "three": "The project combines engineering and ecological approaches with community planning and capacity development, applying international experience and advanced technologies for effective monitoring and risk reduction.",
+      "four": "The project goals include reducing losses from natural disasters and strengthening the protection of populations and territories for sustainable development, aiming to minimize vulnerability and landslide risk for communities and infrastructure."
+    },
+    "info": {
+      "map": "Kyrgyzstan Map",
+      "tenders": "Tenders",
+      "allTenders": "All Tenders",
+      "news": "News",
+      "allNews": "All News"
+    },
+    "partners": {
+      "title": "Partners",
+      "link": "link to website",
+      "one": "Department of Monitoring and Forecasting of Emergencies at the Ministry of Emergency Situations of the Kyrgyz Republic",
+      "two": "Hydrometeorological Service at the Ministry of Emergency Situations of the Kyrgyz Republic",
+      "three": "Interregional Center for Territory Protection at the Ministry of Emergency Situations of the Kyrgyz Republic"
+    },
+    "links": {
+      "title": "Links to Government Websites",
+      "one": {
+        "title": "President of the Kyrgyz Republic",
+        "link": "www.president.kg"
+      },
+      "two": {
+        "title": "Cabinet of Ministers of the Kyrgyz Republic",
+        "link": "www.gov.kg"
+      },
+      "three": {
+        "title": "State website of the Ministry of Emergency Situations of the Kyrgyz Republic",
+        "link": "www.mchs.kg"
+      },
+      "four": {
+        "title": "State Electronic Portal",
+        "link": "portal.tunduk.kg"
+      }
+    }
+  },
+  "graphs": {
+    "one": {
+      "title": "Construction Schedule",
+      "plan": "Planned",
+      "fact": "Actual"
+    },
+    "two": {
+      "title": "Landslide Point Statuses",
+      "statusOne": "Acceptable",
+      "statusTwo": "Alert",
+      "statusThree": "Critical",
+      "month": {
+        "January": "January",
+        "February": "February",
+        "March": "March",
+        "April": "April",
+        "May": "May",
+        "June": "June",
+        "July": "July",
+        "August": "August",
+        "September": "September",
+        "October": "October",
+        "November": "November",
+        "December": "December"
+      }
+    },
+    "three": {
+      "title": "Construction Expenditures",
+      "price": "Spent Dollars"
+    },
+    "four": {
+      "title": "Constructions",
+      "price": "Spent in Dollars",
+      "tableTitle": "Announcement Title",
+      "tableCreated": "Publication Date",
+      "tableFinally": "Final Deadline for Submission"
+    }
+  },
+  "tenders": {
+    "search": "Search Tenders",
+    "searchButton": "Find",
+    "resultsButton": "Results",
+    "detailsButton": "View",
+    "table": {
+      "title": "Title",
+      "createdAt": "Publication Date",
+      "finally": "Final Deadline for Submission",
+      "actions": "Actions"
+    }
+  },
+  "contacts": {
+    "title": "Our Contacts",
+    "description": "Our team worked diligently on creating this project to ensure people's safety.",
+    "number": "+996 777 555 700",
+    "mail": "info@mchs.kg",
+    "address": "Kyrgyz Republic Bishkek. Ministry of Emergency Situations of the Kyrgyz Republic, Frunze 102"
+  },
+  "feedback": {
+    "name": "Your Name",
+    "mail": "Your Email",
+    "message": "Write your message",
+    "buttonSubmit": "Send"
+  },
+  "modalMap": {
+    "title": "Map of Kyrgyzstan"
+  },
+  "back": "Back"
+}
