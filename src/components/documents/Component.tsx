@@ -47,16 +47,16 @@ const Documents: React.FC = () => {
                 'flex flex-col px-4 gap-8 w-[300px] h-[340px] items-start bg-[#FCFCFD]'
               }
             >
-              {/* <img
+              <img
                 src="/document-preview.png"
                 alt="test"
                 className={'sm:w-full z-10 h-[210px]'}
-              /> */}
+              />
 
-              <iframe
+              {/* <iframe
                 src={document?.file}
                 className={'sm:w-full z-10 h-[210px]'}
-              ></iframe>
+              ></iframe> */}
 
               <div className={'flex w-full items-start justify-between'}>
                 <div className={'flex flex-col gap-[10px]'}>
